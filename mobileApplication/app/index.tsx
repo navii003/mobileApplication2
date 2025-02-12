@@ -23,9 +23,9 @@ export default function Welcome() {
   return (
     <View style={styles.container}>
       {/* Welcome Text */}
-      <Text style={styles.title}>Welcome to My App</Text>
+      <Text style={styles.title}>Welcome to Our App</Text>
       <Text style={styles.subtitle}>
-        Your journey starts here. Login to explore amazing features!
+      Welcome! Sign in to discover incredible features and start your adventure!
       </Text>
 
       {/* Animated Login Button */}
